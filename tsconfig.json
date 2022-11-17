@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "rootDir": "src",
+        "outDir": "build",
+        "module": "commonjs",
+        "target": "ESNext",
+        "jsx": "react",
+        "types": ["react"],
+        "esModuleInterop": true,
+        "traceResolution": true
+    },
+    "include": ["src"]
+}
